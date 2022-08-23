@@ -1,0 +1,1 @@
+# İndirdiğiniz veri setini zip halinde bu klasöre ekleyiniz.
