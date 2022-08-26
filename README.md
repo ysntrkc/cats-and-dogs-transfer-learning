@@ -17,10 +17,21 @@ Bu proje AI Summer Camp'22 kapsamında geliştirdiğimiz ikinci projedir. Bu pro
 - Test veri setiyle bir tahmin yapıp sonuçlarını aldık.
 
 ## Perfromans
+
+### Classification Report
 |     | Precision | Recall | F1-Score | Support |
-|-----|-----------|--------|----------|---------|
+| --- | --------- | ------ | -------- | ------- |
 | Cat | 0.99      | 0.65   | 0.79     | 1837    |
 | Dog | 0.75      | 0.99   | 0.85     | 1912    |
+
+### Confusion Matrix
+|     | Cat  | Dog  |
+| --- | ---- | ---- |
+| Cat | 1197 | 640  |
+| Dog | 14   | 1898 |
+
+### Accuracy ve Loss
+![acc-loss](image/performance.jpg)
 
 ## Grup Üyeleri
 - Yasin Tarakçı - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
