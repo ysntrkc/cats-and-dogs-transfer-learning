@@ -1,4 +1,3 @@
-from distutils.command.upload import upload
 import streamlit as st
 import tensorflow as tf
 from keras.models import load_model
@@ -16,7 +15,8 @@ st.subheader("Upload an image of cat or dog and see the prediction!")
 uploaded_file = st.file_uploader(label="", type=["jpg", "png"])
 st.markdown("---")
 
-model = load_model('model/vgg_transfer_learn_dogvscat.h5')
+model = load_model('model/irnetv2_transfer_learn_dogvscat.h5')
+
 
 def resize_image(img):
     img_arr = img_to_array(img)
@@ -33,6 +33,7 @@ def predict(img):
 
     pred = model.predict(img_arr)
     return pred
+
 
 if uploaded_file is not None:
     img = Image.open(uploaded_file)
