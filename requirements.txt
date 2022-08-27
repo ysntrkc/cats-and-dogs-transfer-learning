@@ -1,7 +1,1 @@
-tensorflow==2.5.*
-seaborn
-matplotlib
-scikit-learn
-pandas
-tqdm
-streamlit
+tensorflow
