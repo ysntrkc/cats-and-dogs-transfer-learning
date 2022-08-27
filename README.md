@@ -15,9 +15,9 @@ Bu proje AI Summer Camp'22 kapsamında geliştirdiğimiz ikinci projedir. Bu pro
 - Bu aşamada ilk olarak train, test ve validation klasörlerindeki dosyaları farklı listelere dosya isimlerini ekledik.
 - Dosyaları ismine göre tek tek okuyarak fotoğrafları arraylere çeviriyoruz.
 - Sonrasında arraydeki verileri normalize ettik.
-- VGG16 modelini base model olarak aldık ve üzerine birkaç adım daha ekleyerek modelimizi oluşturduk.
+- Inception ResNet V2 modelini base model olarak aldık ve üzerine birkaç adım daha ekleyerek modelimizi oluşturduk.
 - Sonrasında modeli eğittik.
-- Test veri setiyle bir tahmin yapıp sonuçlarını aldık.
+- Test veri setiyle bir tahminleme yapıp sonuçlarını aldık.
 
 ## Perfromans
 - Bu sonuçları NVIDIA RTX A6000 ekran kartına sahip Windows bir makine kullanarak elde ettik.
@@ -30,16 +30,16 @@ Bu proje AI Summer Camp'22 kapsamında geliştirdiğimiz ikinci projedir. Bu pro
 
 |            | Pred Cat | Pred Dog |
 | ---------- | -------- | -------- |
-| Actual Cat | 1630     | 203      |
-| Actual Dog | 158      | 1758     |
+| Actual Cat | 1825     | 88       |
+| Actual Dog | 28       | 1808     |
 
 ### Classification Report
 - Bu tablodaki sonuçları test veri seti ile elde ettik.
 
 |     | Precision | Recall | F1-Score |
 | --- | --------- | ------ | -------- |
-| Cat | 0.91      | 0.89   | 0.90     |
-| Dog | 0.90      | 0.92   | 0.91     |
+| Cat | 0.98      | 0.95   | 0.97     |
+| Dog | 0.95      | 0.98   | 0.97     |
 
 
 

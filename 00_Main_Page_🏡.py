@@ -1,7 +1,7 @@
 import streamlit as st
 import tensorflow as tf
 from keras.models import load_model
-from keras.utils import img_to_array
+from keras.preprocessing.image import img_to_array
 from PIL import Image
 
 IMAGE_DIM = (150, 150)
