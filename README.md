@@ -1,6 +1,6 @@
 # Cats vs Dogs Transfer Learning Projesi
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ysntrkc-cats-and-dogs-transfer-learning-00-main-page--0cgama.streamlitapp.com/)
+<!-- [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ysntrkc-cats-and-dogs-transfer-learning-00-main-page--0cgama.streamlitapp.com/) -->
 
 
 ## Tanım
