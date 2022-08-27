@@ -19,11 +19,6 @@ Bu proje AI Summer Camp'22 kapsamında geliştirdiğimiz ikinci projedir. Bu pro
 - Sonrasında modeli eğittik.
 - Test veri setiyle bir tahmin yapıp sonuçlarını aldık.
 
-## Gereksinimler
-- Python 3.6 veya üstü
-- TensorFlow 2.5
-- Diğer gereksinimleri de [requirements.txt](requirements.txt) dosyasında görebilirsiniz.
-
 ## Perfromans
 - Bu sonuçları NVIDIA RTX A6000 ekran kartına sahip Windows bir makine kullanarak elde ettik.
 
