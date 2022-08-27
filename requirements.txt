@@ -4,5 +4,4 @@ matplotlib
 scikit-learn
 pandas
 tqdm
-keras==2.5.*
 streamlit
