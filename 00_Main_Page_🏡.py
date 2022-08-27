@@ -18,6 +18,7 @@ st.markdown("---")
 model = load_model('model/vgg_transfer_learn_dogvscat.h5')
 
 def resize_image(img):
+    img = tf.convert_to_tensor(img)
     img = tf.image.resize(img, IMAGE_DIM)
     img_arr = img_to_array(img)
     return img_arr
