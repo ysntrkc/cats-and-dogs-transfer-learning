@@ -1,5 +1,8 @@
 # Cats vs Dogs Transfer Learning Projesi
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ysntrkc-cats-and-dogs-transfer-learning-00-main-page--0cgama.streamlitapp.com/)
+
+
 ## Tanım
 Bu proje AI Summer Camp'22 kapsamında geliştirdiğimiz ikinci projedir. Bu projede Cats and Dogs veri setini kullandık. Kodları çalıştırmak için veri setini [buradan](https://www.microsoft.com/en-us/download/details.aspx?id=54765) indirip [data](data/) klasörüne zip olarak atmanız gerekmektedir.
 
