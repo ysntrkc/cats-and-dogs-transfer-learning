@@ -16,22 +16,35 @@ Bu proje AI Summer Camp'22 kapsamında geliştirdiğimiz ikinci projedir. Bu pro
 - Sonrasında modeli eğittik.
 - Test veri setiyle bir tahmin yapıp sonuçlarını aldık.
 
+## Gereksinimler
+- Python 3.6 veya üstü
+- TensorFlow 2.5
+- Diğer gereksinimleri de [requirements.txt](requirements.txt) dosyasında görebilirsiniz.
+
 ## Perfromans
-
-### Confusion Matrix
-|     | Cat  | Dog  |
-| --- | ---- | ---- |
-| Cat | 1197 | 640  |
-| Dog | 14   | 1898 |
-
-### Classification Report
-|     | Precision | Recall | F1-Score | Support |
-| --- | --------- | ------ | -------- | ------- |
-| Cat | 0.99      | 0.65   | 0.79     | 1837    |
-| Dog | 0.75      | 0.99   | 0.85     | 1912    |
+- Bu sonuçları NVIDIA RTX A6000 ekran kartına sahip Windows bir makine kullanarak elde ettik.
 
 ### Accuracy ve Loss
 ![acc-loss](image/performance.jpg)
+
+
+### Confusion Matrix
+- Bu tablodaki sonuçları test veri seti ile elde ettik.
+
+|            | Pred Cat | Pred Dog |
+| ---------- | -------- | -------- |
+| Actual Cat | 1233     | 600      |
+| Actual Dog | 13       | 1903     |
+
+### Classification Report
+- Bu tablodaki sonuçları test veri seti ile elde ettik.
+
+|     | Precision | Recall | F1-Score | Support |
+| --- | --------- | ------ | -------- | ------- |
+| Cat | 0.99      | 0.67   | 0.80     | 1833    |
+| Dog | 0.76      | 0.99   | 0.86     | 1916    |
+
+
 
 ## Grup Üyeleri
 - Yasin Tarakçı - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)

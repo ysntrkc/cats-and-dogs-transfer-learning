@@ -1,0 +1,7 @@
+tensorflow-gpu==2.5.*
+seaborn
+matplotlib
+scikit-learn
+pandas
+tqdm
+keras==2.5.*
