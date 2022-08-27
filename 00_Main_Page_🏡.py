@@ -1,3 +1,4 @@
+from distutils.command.upload import upload
 import streamlit as st
 import tensorflow as tf
 from keras.models import load_model
@@ -18,9 +19,9 @@ st.markdown("---")
 model = load_model('model/vgg_transfer_learn_dogvscat.h5')
 
 def resize_image(img):
-    img = tf.convert_to_tensor(img)
-    img = tf.image.resize(img, IMAGE_DIM)
     img_arr = img_to_array(img)
+    img_tensor = tf.image.resize(img_arr, IMAGE_DIM)
+    img_arr = img_tensor.numpy()
     return img_arr
 
 
