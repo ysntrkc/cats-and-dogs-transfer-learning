@@ -46,6 +46,10 @@ Bu proje AI Summer Camp'22 kapsamında geliştirdiğimiz ikinci projedir. Bu pro
 
 
 
+https://user-images.githubusercontent.com/66255053/187091877-c93ee65b-f9d9-4eec-a29e-18eaa541d838.mp4
+
+
+
 ## Grup Üyeleri
 - Yasin Tarakçı - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
 - Gülnur Ögür - [GitHub](https://github.com/gulnurogur) | [LinkedIn](https://www.linkedin.com/in/gulnurogur)
