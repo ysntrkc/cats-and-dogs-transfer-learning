@@ -45,7 +45,7 @@ Bu proje AI Summer Camp'22 kapsamında geliştirdiğimiz ikinci projedir. Bu pro
 | Dog | 0.90      | 0.92   | 0.91     |
 
 
-
+## Streamlit Demo
 https://user-images.githubusercontent.com/66255053/187091877-c93ee65b-f9d9-4eec-a29e-18eaa541d838.mp4
 
 
