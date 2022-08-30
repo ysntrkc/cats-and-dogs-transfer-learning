@@ -54,6 +54,6 @@ https://user-images.githubusercontent.com/66255053/187091877-c93ee65b-f9d9-4eec-
 - Yasin Tarakçı - [GitHub](https://github.com/ysntrkc) | [LinkedIn](https://www.linkedin.com/in/yasintarakci)
 - Gülnur Ögür - [GitHub](https://github.com/gulnurogur) | [LinkedIn](https://www.linkedin.com/in/gulnurogur)
 - Hatice İkbal Göllüce - [GitHub](https://github.com/haticeikbal) | [LinkedIn](https://www.linkedin.com/in/haticeikbalgolluce/)
-- Kübra Küçükkartal - [GitHub](https://github.com/hkubrakkartal) | [LinkedIn](https://www.linkedin.com/in/hatice-kubra-kucukkartal/)
+- Kübra Küçükkartal - [GitHub](https://github.com/hkubrakkartal) | [LinkedIn](https://www.linkedin.com/in/hatice-kubra-kucukkartal)
 - Ali Mert Kocaman - [GitHub](https://github.com/alimert2209) | [LinkedIn](https://www.linkedin.com/in/alimertkocaman/)
 - Cansu Karahan - [GitHub](https://github.com/cansukarahann) | [LinkedIn](https://www.linkedin.com/in/cansu-karahan)
